@@ -33,3 +33,8 @@ h2{
 .input-fields{
     padding: 15px;
 }
+input{
+    padding: 8px;
+    border-bottom: 1px solid #ccc;
+    border-radius: 5px;
+}
