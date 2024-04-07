@@ -32,9 +32,16 @@ h2{
 
 .input-fields{
     padding: 15px;
+    display: flex;
+    justify-content: space-between;
 }
 input{
     padding: 8px;
-    border-bottom: 1px solid #ccc;
+    border: 1px solid #ccc;
     border-radius: 5px;
+    width: 100%;
+}
+.half-width{
+    display: flex;
+    width: 48%;
 }
