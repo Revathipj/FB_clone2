@@ -23,8 +23,13 @@ body,h1,h2,p{
 .form-heading{
     text-align: center;
     padding: 10px;
+    border-bottom: 1px solid #ccc;
 }
 
 h2{
     padding-bottom: 5px;
+}
+
+.input-fields{
+    padding: 15px;
 }
